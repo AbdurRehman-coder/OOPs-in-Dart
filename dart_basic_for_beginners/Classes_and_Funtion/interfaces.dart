@@ -1,3 +1,4 @@
+//interfaces in dart
 void main() {
   calculator cal = new calculator();
   print('the gross total: ${cal.total()}');
